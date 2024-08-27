@@ -6,8 +6,7 @@ board, the LCD display, the SD card, and the filament sensor all died.
 
 The controller board (Duet 2 Ethernet) and the LCD display (Panel Due) are both Open Source hardware,
 manufactured by Duet3D.  The firmware running on the controller board  is a slightly modified version
-of RepRap firmware. The filament sensor and the old PanelDue board are NLA, and the version of RepRap firmware that was
-running is quite ancient.
+of RepRap firmware. The filament sensor and the old PanelDue board are NLA, and the version of RepRap firmware that was running is quite ancient, hence hard to get help on.
 
 
 Unfortunately, the folks at Fusion3 do not provide any support AT ALL for modifying or updating the
